@@ -1,4 +1,3 @@
-# TryHackMe-OhSHINT
 
 # OSINT Investigation – OhSINT (TryHackMe)
 
